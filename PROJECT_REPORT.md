@@ -9,7 +9,8 @@
 | **Project Type** | Web-Based Cost Performance & Predictive Analytics Dashboard |
 | **Technology** | Python, Streamlit, Pandas, Scikit-learn, Statsmodels, Plotly |
 | **GitHub Repository** | https://github.com/Yasaswini253/project-cost-tracker |
-| **Deployment** | Localhost (`http://localhost:8501`) / Streamlit Cloud (optional) |
+| **Live Demo** | https://project-cost-tracker-eqjgegdyjamkzpzcuzzw8f.streamlit.app/ |
+| **Deployment** | Streamlit Cloud + Localhost (`http://localhost:8501`) |
 
 ---
 
@@ -471,7 +472,7 @@ The application can be deployed online using **Streamlit Community Cloud**:
 2. Connect GitHub account  
 3. Select repository: `Yasaswini253/project-cost-tracker`  
 4. Main file: `app.py`  
-5. Deploy → receive public URL like `https://project-cost-tracker.streamlit.app`  
+5. Deploy → live URL: https://project-cost-tracker-eqjgegdyjamkzpzcuzzw8f.streamlit.app/  
 
 ---
 
@@ -511,6 +512,7 @@ This project demonstrates practical application of **Data Science, Machine Learn
 | Resource | Link |
 |----------|------|
 | GitHub Repository | https://github.com/Yasaswini253/project-cost-tracker |
+| Live Demo (Streamlit Cloud) | https://project-cost-tracker-eqjgegdyjamkzpzcuzzw8f.streamlit.app/ |
 | Streamlit Documentation | https://docs.streamlit.io |
 | Scikit-learn Documentation | https://scikit-learn.org |
 | Statsmodels (ARIMA) | https://www.statsmodels.org |

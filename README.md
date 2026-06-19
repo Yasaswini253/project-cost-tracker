@@ -2,6 +2,12 @@
 
 AI-assisted dashboard for consolidating ETC and actual cost (ACWP) data, calculating cost variance and CPI, detecting anomalies, and visualizing project cost performance.
 
+## Live Demo
+
+**Open the deployed app:** [https://project-cost-tracker-eqjgegdyjamkzpzcuzzw8f.streamlit.app/](https://project-cost-tracker-eqjgegdyjamkzpzcuzzw8f.streamlit.app/)
+
+On first load, enable **Use sample Task_ID data** in the sidebar for an instant demo.
+
 ## Features
 
 - **Automatic data consolidation** from ETC and Actual cost files (CSV or Excel)
@@ -93,26 +99,13 @@ project-cost-tracker/
     └── dashboard.py        # Charts & UI components
 ```
 
-## Deploy on Streamlit Cloud (Public URL)
+## Deployment
 
-Your app code is on GitHub. To get a **public link** anyone can open:
-
-1. Go to **[https://share.streamlit.io](https://share.streamlit.io)**
-2. Sign in with your **GitHub** account (`Yasaswini253`)
-3. Click **New app**
-4. Fill in:
-   - **Repository:** `Yasaswini253/project-cost-tracker`
-   - **Branch:** `main`
-   - **Main file path:** `app.py`
-5. Click **Deploy**
-
-After 2–5 minutes you will get a URL like:
-
-`https://project-cost-tracker-yasaswini253.streamlit.app`
-
-Anyone with that link can use your dashboard without running it on localhost.
-
-**Live demo tip:** On first load, check **Use sample Task_ID data** in the sidebar to show the dashboard instantly.
+| Type | URL |
+|------|-----|
+| **Live app (Streamlit Cloud)** | https://project-cost-tracker-eqjgegdyjamkzpzcuzzw8f.streamlit.app/ |
+| **Source code (GitHub)** | https://github.com/Yasaswini253/project-cost-tracker |
+| **Local run** | `http://localhost:8501` (via `run.bat`) |
 
 ## Requirements
 
