@@ -93,6 +93,27 @@ project-cost-tracker/
     └── dashboard.py        # Charts & UI components
 ```
 
+## Deploy on Streamlit Cloud (Public URL)
+
+Your app code is on GitHub. To get a **public link** anyone can open:
+
+1. Go to **[https://share.streamlit.io](https://share.streamlit.io)**
+2. Sign in with your **GitHub** account (`Yasaswini253`)
+3. Click **New app**
+4. Fill in:
+   - **Repository:** `Yasaswini253/project-cost-tracker`
+   - **Branch:** `main`
+   - **Main file path:** `app.py`
+5. Click **Deploy**
+
+After 2–5 minutes you will get a URL like:
+
+`https://project-cost-tracker-yasaswini253.streamlit.app`
+
+Anyone with that link can use your dashboard without running it on localhost.
+
+**Live demo tip:** On first load, check **Use sample Task_ID data** in the sidebar to show the dashboard instantly.
+
 ## Requirements
 
 - Python 3.10 or higher
