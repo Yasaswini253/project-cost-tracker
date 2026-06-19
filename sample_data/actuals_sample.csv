@@ -1,0 +1,15 @@
+Project_ID,Project_Name,Cost_Element,Period,ACWP
+P001,Alpha Plant Upgrade,Engineering,Week-01,98000
+P001,Alpha Plant Upgrade,Procurement,Week-01,185000
+P001,Alpha Plant Upgrade,Construction,Week-01,395000
+P002,Beta Pipeline,Engineering,Week-01,72000
+P002,Beta Pipeline,Construction,Week-01,255000
+P003,Gamma Refinery,Engineering,Week-01,155000
+P003,Gamma Refinery,Procurement,Week-01,310000
+P003,Gamma Refinery,Construction,Week-01,520000
+P004,Delta Compressor,Engineering,Week-01,52000
+P004,Delta Compressor,Construction,Week-01,125000
+P001,Alpha Plant Upgrade,Engineering,Week-02,102000
+P001,Alpha Plant Upgrade,Construction,Week-02,410000
+P002,Beta Pipeline,Construction,Week-02,270000
+P003,Gamma Refinery,Construction,Week-02,550000

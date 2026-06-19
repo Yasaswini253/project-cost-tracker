@@ -1,0 +1,15 @@
+Project_ID,Project_Name,Cost_Element,Period,ETC,Planned_Cost,Earned_Value
+P001,Alpha Plant Upgrade,Engineering,Week-01,45000,120000,115000
+P001,Alpha Plant Upgrade,Procurement,Week-01,80000,200000,190000
+P001,Alpha Plant Upgrade,Construction,Week-01,150000,400000,380000
+P002,Beta Pipeline,Engineering,Week-01,25000,80000,78000
+P002,Beta Pipeline,Construction,Week-01,95000,250000,240000
+P003,Gamma Refinery,Engineering,Week-01,60000,150000,140000
+P003,Gamma Refinery,Procurement,Week-01,120000,300000,280000
+P003,Gamma Refinery,Construction,Week-01,200000,500000,470000
+P004,Delta Compressor,Engineering,Week-01,15000,50000,48000
+P004,Delta Compressor,Construction,Week-01,40000,120000,110000
+P001,Alpha Plant Upgrade,Engineering,Week-02,42000,120000,118000
+P001,Alpha Plant Upgrade,Construction,Week-02,140000,400000,375000
+P002,Beta Pipeline,Construction,Week-02,88000,250000,235000
+P003,Gamma Refinery,Construction,Week-02,195000,500000,460000
